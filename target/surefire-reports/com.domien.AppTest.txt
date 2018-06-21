@@ -1,0 +1,37 @@
+-------------------------------------------------------------------------------
+Test set: com.domien.AppTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 8.532 sec <<< FAILURE!
+verifyThatWeCanFindUnitedStatesOfAmericaCountryUsingTheCodeUS(com.domien.AppTest)  Time elapsed: 4.68 sec  <<< FAILURE!
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <202> but was <200>.
+
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)
+	at com.domien.TestSteps.searchIsExecutedSuccesfully(TestSteps.java:20)
+	at com.domien.AppTest.verifyThatWeCanFindUnitedStatesOfAmericaCountryUsingTheCodeUS(AppTest.java:20)
+
+verifyThatWeCanFindBrazilCountryUsingTheCodeBR(com.domien.AppTest)  Time elapsed: 0.561 sec  <<< FAILURE!
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <202> but was <200>.
+
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)
+	at com.domien.TestSteps.searchIsExecutedSuccesfully(TestSteps.java:20)
+	at com.domien.AppTest.verifyThatWeCanFindBrazilCountryUsingTheCodeBR(AppTest.java:34)
+
+verifyThatWeCanFindIndiaCountryUsingTheCodeIN(com.domien.AppTest)  Time elapsed: 0.577 sec  <<< FAILURE!
+java.lang.AssertionError: 1 expectation failed.
+Expected status code <202> but was <200>.
+
+	at io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)
+	at io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)
+	at io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)
+	at com.domien.TestSteps.searchIsExecutedSuccesfully(TestSteps.java:20)
+	at com.domien.AppTest.verifyThatWeCanFindIndiaCountryUsingTheCodeIN(AppTest.java:27)
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="3" name="com.domien.AppTest" skipped="0" tests="3" time="5.74" timestamp="2018-06-21T18:47:16.874+02:00[Europe/Paris]"><testcase classname="com.domien.AppTest" name="Verify that we can find united states of america country using the code US"><failure message="1 expectation failed.&#10;Expected status code &lt;202&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;202&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;202&gt; but was &lt;200&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.domien.TestSteps.searchIsExecutedSuccesfully(TestSteps.java:20)&#13;
+com.domien.AppTest.verifyThatWeCanFindUnitedStatesOfAmericaCountryUsingTheCodeUS(AppTest.java:20)&#13;
+</system-err></testcase><testcase classname="com.domien.AppTest" name="Verify that we can find brazil country using the code BR"><failure message="1 expectation failed.&#10;Expected status code &lt;202&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;202&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;202&gt; but was &lt;200&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.domien.TestSteps.searchIsExecutedSuccesfully(TestSteps.java:20)&#13;
+com.domien.AppTest.verifyThatWeCanFindBrazilCountryUsingTheCodeBR(AppTest.java:34)&#13;
+</system-err></testcase><testcase classname="com.domien.AppTest" name="Verify that we can find india country using the code IN"><failure message="1 expectation failed.&#10;Expected status code &lt;202&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;202&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;202&gt; but was &lt;200&gt;.
+&#13;
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:636)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:122)&#13;
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:130)&#13;
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:117)&#13;
+com.domien.TestSteps.searchIsExecutedSuccesfully(TestSteps.java:20)&#13;
+com.domien.AppTest.verifyThatWeCanFindIndiaCountryUsingTheCodeIN(AppTest.java:27)&#13;
+</system-err></testcase></testsuite>

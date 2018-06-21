@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"App test","Verify that we can find united states of america country using the code US","FAILURE","18:47:16","0.0","4.63"
+"App test","Verify that we can find brazil country using the code BR","FAILURE","18:47:21","0.0","0.55"
+"App test","Verify that we can find india country using the code IN","FAILURE","18:47:22","0.0","0.56"
