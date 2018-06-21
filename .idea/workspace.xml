@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d260438-011b-43a0-aa4f-dc58d4f66002" name="Default" comment="" />
+    <list default="true" id="0d260438-011b-43a0-aa4f-dc58d4f66002" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/resources/hibernate/hibernate-validator-parent/5.1.1.Final/_remote.repositories" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/hibernate/hibernate-validator-parent/5.1.1.Final/hibernate-validator-parent-5.1.1.Final.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/hibernate/hibernate-validator-parent/5.1.1.Final/hibernate-validator-parent-5.1.1.Final.pom.sha1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/hibernate/hibernate-validator/5.1.1.Final/_remote.repositories" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/hibernate/hibernate-validator/5.1.1.Final/hibernate-validator-5.1.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/hibernate/hibernate-validator/5.1.1.Final/hibernate-validator-5.1.1.Final.jar.sha1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/hibernate/hibernate-validator/5.1.1.Final/hibernate-validator-5.1.1.Final.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/hibernate/hibernate-validator/5.1.1.Final/hibernate-validator-5.1.1.Final.pom.sha1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/openpnp/opencv/3.2.0-1/_remote.repositories" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/openpnp/opencv/3.2.0-1/opencv-3.2.0-1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/openpnp/opencv/3.2.0-1/opencv-3.2.0-1.jar.sha1" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/openpnp/opencv/3.2.0-1/opencv-3.2.0-1.pom" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/openpnp/opencv/3.2.0-1/opencv-3.2.0-1.pom.sha1" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/target/site/serenity/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8169">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="406" column="0" lean-forward="false" selection-start-line="406" selection-start-column="0" selection-end-line="406" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shared-1.7.4.pom" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/jruby/shared/1.7.4/shared-1.7.4.pom">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,6 +127,9 @@
       <replace>steps</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
@@ -146,11 +174,12 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1032" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -181,6 +210,32 @@
             <path>
               <item name="serenity" type="b2602c69:ProjectViewProjectNode" />
               <item name="serenity" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serenity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serenity" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="jruby" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serenity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serenity" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="jruby" type="462c0819:PsiDirectoryNode" />
+              <item name="jruby-complete" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serenity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serenity" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="jruby" type="462c0819:PsiDirectoryNode" />
+              <item name="jruby-complete" type="462c0819:PsiDirectoryNode" />
+              <item name="1.7.4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serenity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serenity" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -271,20 +326,36 @@
             <path>
               <item name="serenity" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.beust:jcommander:1.48" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: org.springframework:spring-expression:4.3.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="serenity" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.beust:jcommander:1.48" type="70bed36:NamedLibraryElementNode" />
-              <item name="jcommander-1.48.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework:spring-expression:4.3.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-expression-4.3.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="serenity" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.beust:jcommander:1.48" type="70bed36:NamedLibraryElementNode" />
-              <item name="jcommander-1.48.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="jcommander" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework:spring-expression:4.3.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-expression-4.3.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="expression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serenity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-expression:4.3.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-expression-4.3.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="expression" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serenity" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-expression:4.3.8.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-expression-4.3.8.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="expression" type="462c0819:PsiDirectoryNode" />
+              <item name="spel" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,6 +369,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\dfrederi\Desktop\documentatie\DL_POC\serenity\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -467,8 +543,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1032" extended-state="0" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -476,13 +551,13 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.51131225" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46581692" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2943072" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45629966" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48755655" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2803437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -704,8 +779,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/target/site/serenity/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8169">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="210">
+          <caret line="406" column="0" lean-forward="false" selection-start-line="406" selection-start-column="0" selection-end-line="406" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/jruby/shared/1.7.4/shared-1.7.4.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/hibernate/hibernate-validator/5.1.1.Final/_remote.repositories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
